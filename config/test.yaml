@@ -1,0 +1,4 @@
+# config/test.yaml
+environment: test
+workspace_id: "11111111-1111-1111-1111-111111111111"
+api_base_url: "https://api.fabric.microsoft.com/v1"
