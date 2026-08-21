@@ -4,8 +4,8 @@ Confidence scale: 0 = never touched, 1 = read, 2 = basic demo, 3 = implemented, 
 
 | Skill | Target | Evidence | Confidence |
 |------|------|------|------|
-| Python | Strong | | 0 |
-| Git | Strong | | 0 |
+| Python | Strong | FabricClient + typed config loader (src/automation) | 3 |
+| Git | Strong | branch protection + tag demo | 2 |
 | Azure DevOps | Strong | | 0 |
 | GitHub Actions | Medium | | 0 |
 | Fabric Git | Strong | | 0 |
@@ -19,5 +19,5 @@ Confidence scale: 0 = never touched, 1 = read, 2 = basic demo, 3 = implemented, 
 | Bicep | Medium/Strong | | 0 |
 | Integration | Strong | | 0 |
 | Observability | Strong | | 0 |
-| Testing | Strong | | 0 |
+| Testing | Strong | pytest unit suite (respx-mocked): 4xx/429/500/timeout/retry/long-running op | 3 |
 | Release management | Strong | | 0 |
